@@ -13,7 +13,7 @@ Here are a few examples of positions this checklist can be used for:
 Atom Groom wrote a [blog article](http://www.atomgroom.com/thoughts/designing-the-hiring-experience-for-designers/) about improving the designer hiring process and that is how this checklist manifested. This checklist compliments that article to be sure to read it over.
 
 ## 1) Create the interview process
-[ ] vet first twenty applicants (recruiter, hiring manager or talent acquisition)
+- [ ] vet first twenty applicants (recruiter, hiring manager or talent acquisition)
 [ ] design team narrows down to ten
 [ ] optional: follow-up questions
 [ ] optional: design challenge
