@@ -11,3 +11,5 @@ Here are a few examples of positions this checklist can be used for:
 * ...and many more.
 
 Atom Groom wrote a [blog article](http://www.atomgroom.com/thoughts) about improving the designer hiring process and that is how this checklist manifested. This checklist compliments that article to be sure to read it over.
+
+[View the Checklist](https://github.com/atomgroom/designer-hiring-checklist/blob/master/Hiring-a-designer-checklist.md)
